@@ -1,0 +1,17 @@
+.product-cart {
+  display: flex;
+  align-items: center;
+  column-gap: 6px;
+  margin-bottom: 8px;
+}
+
+.selected-product-cart {
+  display: flex;
+  align-items: center;
+  column-gap: 6px;
+  margin-bottom: 8px;
+}
+
+.clear-cart {
+  margin-top: 16px;
+}
